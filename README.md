@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/46jWAnc.jpg" width="100"/> 
+<img src="https://i.imgur.com/ufqrFeK.png" width="100"/> 
 
 # PascalVOC Predictions Sample  
 
@@ -28,7 +28,7 @@
 
  `pascal_sample_pred` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. 
 
-![](https://i.imgur.com/94p4Ysf.jpg)
+![](https://i.imgur.com/wYzYJ2V.png)
 
 ## Description 
 
@@ -42,11 +42,11 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/geOhYVf
 
 Project contains 3 datasets with 1171 images in it, with a total of 2271 annotated objects. 
 
-![](https://i.imgur.com/AI7ECrG.png)
+![](https://i.imgur.com/iGOycU9.png)
 
 ## Examples
 
-![](https://i.imgur.com/wd243ip.png) ![](https://i.imgur.com/ldSWlUG.png) 
+![](https://i.imgur.com/Tl4Hu0c.png) ![](https://i.imgur.com/ovwTB0u.png) 
 
 ## How To Import
 
