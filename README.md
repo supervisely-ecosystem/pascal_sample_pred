@@ -12,8 +12,7 @@
   <a href="#description">Description</a> •
   <a href="#download">Download</a> •
   <a href="#statistics">Statistics</a> •
-  <a href="#examples">Examples</a> •
-  <a href="#how-to-import">How to Import</a> 
+  <a href="#examples">Examples</a>
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
@@ -26,7 +25,7 @@
 
 ## Overview 
 
- `pascal_sample_pred` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. 
+ `pascal_sample_pred` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. All predictions were produced by pretrained YOLOv5 model from original repository. This project is used as an example for `Object Detection Metrics` app.
 
 ![](https://i.imgur.com/wYzYJ2V.png)
 
@@ -47,7 +46,3 @@ Project contains 3 datasets with 1171 images in it, with a total of 2271 annotat
 ## Examples
 
 ![](https://i.imgur.com/Tl4Hu0c.png) ![](https://i.imgur.com/ovwTB0u.png) 
-
-## How To Import
-
-...
