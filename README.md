@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/46jWAnc.jpg" width="100"/> 
 
-# PascalVOC sample predictions  
+# PascalVOC Predictions Sample  
 
 <p align="center">
 
@@ -32,7 +32,7 @@
 
 ## Description 
 
-`pascal_sample_pred` is widely used as a benchmark for object detection, semantic segmentation.
+Data from `PascalVOC` is widely used as a benchmark for object detection, semantic segmentation.
 
 ## Download
 

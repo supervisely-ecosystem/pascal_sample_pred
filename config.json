@@ -1,5 +1,5 @@
 {
-  "name": "PascalVOC sample predictions",
+  "name": "PascalVOC Predictions (Sample)",
   "description": "1171 sample prediction images from PascalVOC dataset",
   "type": "project",
   "categories": [
