@@ -29,6 +29,10 @@
 
 ![](https://i.imgur.com/wYzYJ2V.png)
 
+Every object has `confidence` tag that will be used for metrics calculation:
+
+![](https://i.imgur.com/3CWLam5.png)
+
 
 ## Download
 
