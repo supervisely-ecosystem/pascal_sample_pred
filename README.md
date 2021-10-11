@@ -29,9 +29,6 @@
 
 ![](https://i.imgur.com/wYzYJ2V.png)
 
-## Description 
-
-Data from `PascalVOC` is widely used as a benchmark for object detection, semantic segmentation.
 
 ## Download
 
