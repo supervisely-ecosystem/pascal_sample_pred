@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 56635964,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957691,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2671,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        209
+                    ],
+                    [
+                        328,
+                        361
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635963,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957690,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3379,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        126,
+                        213
+                    ],
+                    [
+                        209,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635962,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957689,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5605,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        101,
+                        207
+                    ],
+                    [
+                        156,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635961,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957688,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5649,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        201
+                    ],
+                    [
+                        293,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635960,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957687,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6919,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        221
+                    ],
+                    [
+                        196,
+                        399
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635959,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957686,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7324,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        210
+                    ],
+                    [
+                        321,
+                        392
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

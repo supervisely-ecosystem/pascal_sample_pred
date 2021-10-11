@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635886,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957613,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3828,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        196
+                    ],
+                    [
+                        81,
+                        218
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635885,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957612,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4397,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        218
+                    ],
+                    [
+                        348,
+                        243
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635884,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957611,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7832,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        35
+                    ],
+                    [
+                        399,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

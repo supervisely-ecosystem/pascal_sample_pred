@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635345,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957072,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5732,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        168
+                    ],
+                    [
+                        346,
+                        231
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635344,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957071,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.582,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        385,
+                        9
+                    ],
+                    [
+                        412,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635343,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957070,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7334,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        412,
+                        0
+                    ],
+                    [
+                        430,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635342,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957069,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7373,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        366,
+                        5
+                    ],
+                    [
+                        386,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635341,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957068,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9043,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        315,
+                        66
+                    ],
+                    [
+                        466,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635340,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957067,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9155,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        144
+                    ],
+                    [
+                        150,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

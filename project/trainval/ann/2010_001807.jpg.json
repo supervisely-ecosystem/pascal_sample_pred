@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 56635996,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957723,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2622,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        2
+                    ],
+                    [
+                        299,
+                        452
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635995,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957722,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2703,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        384
+                    ],
+                    [
+                        256,
+                        443
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635994,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957721,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5933,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        95,
+                        414
+                    ],
+                    [
+                        286,
+                        453
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635993,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957720,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6167,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        105,
+                        380
+                    ],
+                    [
+                        134,
+                        425
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635992,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957719,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6611,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        392
+                    ],
+                    [
+                        158,
+                        429
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635991,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957718,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8066,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        233,
+                        352
+                    ],
+                    [
+                        263,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

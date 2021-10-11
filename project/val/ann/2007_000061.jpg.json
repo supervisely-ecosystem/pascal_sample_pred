@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636083,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957810,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3635,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        222,
+                        225
+                    ],
+                    [
+                        279,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636082,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957809,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3853,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        274,
+                        200
+                    ],
+                    [
+                        432,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636081,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957808,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5137,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        190,
+                        213
+                    ],
+                    [
+                        241,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636080,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957807,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6338,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        283,
+                        15
+                    ],
+                    [
+                        434,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 364,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636478,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958205,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.272,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        21,
+                        273
+                    ],
+                    [
+                        77,
+                        312
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636477,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958204,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3887,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        92,
+                        29
+                    ],
+                    [
+                        103,
+                        42
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636476,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958203,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4097,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        199
+                    ],
+                    [
+                        405,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636475,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958202,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6655,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        209
+                    ],
+                    [
+                        202,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

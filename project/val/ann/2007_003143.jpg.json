@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 292,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636374,
+            "classId": 122187,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958101,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7466,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        32,
+                        67
+                    ],
+                    [
+                        475,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

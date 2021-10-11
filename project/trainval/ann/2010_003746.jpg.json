@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 56635415,
+            "classId": 122187,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957142,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5815,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        83
+                    ],
+                    [
+                        131,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635414,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957141,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6006,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        22
+                    ],
+                    [
+                        370,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

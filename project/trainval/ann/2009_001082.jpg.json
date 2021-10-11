@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635534,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957261,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6064,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        12
+                    ],
+                    [
+                        273,
+                        345
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635533,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957260,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6274,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        86
+                    ],
+                    [
+                        497,
+                        356
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

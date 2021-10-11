@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635100,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956827,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7417,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        151
+                    ],
+                    [
+                        331,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

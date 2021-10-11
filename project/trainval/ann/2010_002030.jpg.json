@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 331,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635978,
+            "classId": 122182,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957705,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6982,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        90,
+                        25
+                    ],
+                    [
+                        467,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

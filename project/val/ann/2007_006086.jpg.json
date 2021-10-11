@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 476,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636371,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958098,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7622,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        109,
+                        76
+                    ],
+                    [
+                        167,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

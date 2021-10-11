@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635921,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957648,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4688,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        214,
+                        146
+                    ],
+                    [
+                        367,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635920,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957647,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5679,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        43,
+                        150
+                    ],
+                    [
+                        376,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 321,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635845,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957572,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8101,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        78,
+                        150
+                    ],
+                    [
+                        146,
+                        227
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635844,
+            "classId": 122193,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957571,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9253,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        173,
+                        78
+                    ],
+                    [
+                        352,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

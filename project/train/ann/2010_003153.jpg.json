@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56637102,
+            "classId": 122197,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958829,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.853,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        164
+                    ],
+                    [
+                        420,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

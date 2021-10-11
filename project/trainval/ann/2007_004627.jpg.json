@@ -1,0 +1,180 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56634908,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956635,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2859,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        210
+                    ],
+                    [
+                        498,
+                        374
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56634907,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956634,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2939,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        117,
+                        181
+                    ],
+                    [
+                        222,
+                        222
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56634906,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956633,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.439,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        313,
+                        221
+                    ],
+                    [
+                        418,
+                        270
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56634905,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956632,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5127,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        206
+                    ],
+                    [
+                        422,
+                        274
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56634904,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956631,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6475,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        226
+                    ],
+                    [
+                        499,
+                        297
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

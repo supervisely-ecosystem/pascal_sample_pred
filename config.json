@@ -1,0 +1,12 @@
+{
+  "name": "PascalVOC sample predictions",
+  "description": "1171 sample prediction images from PascalVOC dataset",
+  "type": "project",
+  "categories": [
+    "labeled data",
+    "semantic segmentation",
+    "images"
+  ],
+  "icon": "https://i.imgur.com/EokfMn8.png",
+  "icon_cover": true
+}

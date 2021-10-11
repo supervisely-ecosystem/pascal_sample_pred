@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 361,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635077,
+            "classId": 122193,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956804,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2737,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        204
+                    ],
+                    [
+                        95,
+                        317
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635076,
+            "classId": 122193,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956803,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5532,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        52
+                    ],
+                    [
+                        343,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635075,
+            "classId": 122193,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956802,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.856,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "horse",
+            "points": {
+                "exterior": [
+                    [
+                        222,
+                        125
+                    ],
+                    [
+                        488,
+                        326
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

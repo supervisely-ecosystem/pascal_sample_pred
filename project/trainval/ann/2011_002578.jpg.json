@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635777,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957504,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4006,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        0
+                    ],
+                    [
+                        417,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635776,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957503,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5737,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        445,
+                        81
+                    ],
+                    [
+                        499,
+                        136
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635775,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957502,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7251,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        416,
+                        243
+                    ],
+                    [
+                        489,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

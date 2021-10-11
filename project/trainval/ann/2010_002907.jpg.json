@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 414,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635508,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957235,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7466,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        296,
+                        18
+                    ],
+                    [
+                        412,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635507,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957234,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7632,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        3,
+                        212
+                    ],
+                    [
+                        275,
+                        395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635506,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957233,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8457,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        311,
+                        239
+                    ],
+                    [
+                        431,
+                        406
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635505,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957232,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8516,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        67
+                    ],
+                    [
+                        303,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

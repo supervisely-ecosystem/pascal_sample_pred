@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 435,
+        "width": 450
+    },
+    "objects": [
+        {
+            "id": 56635332,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957059,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5874,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        34
+                    ],
+                    [
+                        276,
+                        382
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

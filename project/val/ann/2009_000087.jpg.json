@@ -1,0 +1,180 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 455,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636418,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958145,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2913,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        262
+                    ],
+                    [
+                        445,
+                        369
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636417,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958144,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.354,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        209
+                    ],
+                    [
+                        25,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636416,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958143,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3633,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        24,
+                        209
+                    ],
+                    [
+                        34,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636415,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958142,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3984,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        29,
+                        209
+                    ],
+                    [
+                        39,
+                        237
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636414,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958141,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4956,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        51,
+                        213
+                    ],
+                    [
+                        63,
+                        238
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

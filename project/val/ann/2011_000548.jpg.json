@@ -1,0 +1,350 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 273,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636507,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958234,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5234,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        66
+                    ],
+                    [
+                        260,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636506,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958233,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5801,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        11
+                    ],
+                    [
+                        499,
+                        137
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636505,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958232,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6255,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        6,
+                        124
+                    ],
+                    [
+                        18,
+                        140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636504,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958231,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6582,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        179,
+                        76
+                    ],
+                    [
+                        351,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636503,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958230,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6709,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        145
+                    ],
+                    [
+                        108,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636502,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958229,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6797,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        373,
+                        36
+                    ],
+                    [
+                        414,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636501,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958228,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7563,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        46,
+                        174
+                    ],
+                    [
+                        72,
+                        232
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636500,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958227,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7637,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        191
+                    ],
+                    [
+                        145,
+                        245
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636499,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958226,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7852,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        408,
+                        33
+                    ],
+                    [
+                        461,
+                        131
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636498,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958225,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8657,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        291,
+                        58
+                    ],
+                    [
+                        413,
+                        209
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

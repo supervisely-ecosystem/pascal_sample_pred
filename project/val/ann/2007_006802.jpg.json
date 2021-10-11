@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 350,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636332,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958059,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4812,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        95
+                    ],
+                    [
+                        367,
+                        116
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636331,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958058,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4814,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        125,
+                        33
+                    ],
+                    [
+                        495,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636330,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958057,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5439,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        210,
+                        85
+                    ],
+                    [
+                        251,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636329,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958056,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5522,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        2
+                    ],
+                    [
+                        499,
+                        349
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

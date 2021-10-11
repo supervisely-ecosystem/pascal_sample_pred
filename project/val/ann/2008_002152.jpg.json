@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636086,
+            "classId": 122188,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957813,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2544,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        300,
+                        155
+                    ],
+                    [
+                        439,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636085,
+            "classId": 122188,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957812,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.687,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        88,
+                        77
+                    ],
+                    [
+                        330,
+                        260
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 364,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636558,
+            "classId": 122182,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958285,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.301,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        61,
+                        101
+                    ],
+                    [
+                        158,
+                        251
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636557,
+            "classId": 122187,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958284,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5229,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        86
+                    ],
+                    [
+                        128,
+                        120
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636556,
+            "classId": 122182,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958283,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8105,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        76,
+                        92
+                    ],
+                    [
+                        338,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636555,
+            "classId": 122187,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958282,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8525,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        378,
+                        67
+                    ],
+                    [
+                        499,
+                        141
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

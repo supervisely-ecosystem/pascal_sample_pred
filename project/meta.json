@@ -1,0 +1,152 @@
+{
+    "classes": [
+        {
+            "title": "bicycle",
+            "shape": "rectangle",
+            "color": "#008000",
+            "geometry_config": {},
+            "id": 122182,
+            "hotkey": ""
+        },
+        {
+            "title": "bird",
+            "shape": "rectangle",
+            "color": "#808000",
+            "geometry_config": {},
+            "id": 122183,
+            "hotkey": ""
+        },
+        {
+            "title": "boat",
+            "shape": "rectangle",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 122184,
+            "hotkey": ""
+        },
+        {
+            "title": "bottle",
+            "shape": "rectangle",
+            "color": "#800080",
+            "geometry_config": {},
+            "id": 122185,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "rectangle",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 122186,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "rectangle",
+            "color": "#808080",
+            "geometry_config": {},
+            "id": 122187,
+            "hotkey": ""
+        },
+        {
+            "title": "cat",
+            "shape": "rectangle",
+            "color": "#400000",
+            "geometry_config": {},
+            "id": 122188,
+            "hotkey": ""
+        },
+        {
+            "title": "chair",
+            "shape": "rectangle",
+            "color": "#C00000",
+            "geometry_config": {},
+            "id": 122189,
+            "hotkey": ""
+        },
+        {
+            "title": "cow",
+            "shape": "rectangle",
+            "color": "#408000",
+            "geometry_config": {},
+            "id": 122190,
+            "hotkey": ""
+        },
+        {
+            "title": "delme",
+            "shape": "polygon",
+            "color": "#4939F9",
+            "geometry_config": {},
+            "id": 122191,
+            "hotkey": ""
+        },
+        {
+            "title": "dog",
+            "shape": "rectangle",
+            "color": "#400080",
+            "geometry_config": {},
+            "id": 122192,
+            "hotkey": ""
+        },
+        {
+            "title": "horse",
+            "shape": "rectangle",
+            "color": "#C00080",
+            "geometry_config": {},
+            "id": 122193,
+            "hotkey": ""
+        },
+        {
+            "title": "motorbike",
+            "shape": "rectangle",
+            "color": "#408080",
+            "geometry_config": {},
+            "id": 122194,
+            "hotkey": ""
+        },
+        {
+            "title": "person",
+            "shape": "rectangle",
+            "color": "#C08080",
+            "geometry_config": {},
+            "id": 122195,
+            "hotkey": ""
+        },
+        {
+            "title": "pred_class",
+            "shape": "rectangle",
+            "color": "#72EE7C",
+            "geometry_config": {},
+            "id": 122196,
+            "hotkey": ""
+        },
+        {
+            "title": "sheep",
+            "shape": "rectangle",
+            "color": "#804000",
+            "geometry_config": {},
+            "id": 122197,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "rectangle",
+            "color": "#80C000",
+            "geometry_config": {},
+            "id": 122198,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "confidence",
+            "value_type": "any_number",
+            "color": "#8A0F61",
+            "id": 236195,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

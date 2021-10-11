@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 377
+    },
+    "objects": [
+        {
+            "id": 56635333,
+            "classId": 122188,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957060,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5039,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cat",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        73
+                    ],
+                    [
+                        271,
+                        387
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

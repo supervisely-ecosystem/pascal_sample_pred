@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 335,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635838,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957565,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.311,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        72
+                    ],
+                    [
+                        499,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635837,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957564,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8579,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        64,
+                        182
+                    ],
+                    [
+                        97,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 427,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636201,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957928,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7271,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        134
+                    ],
+                    [
+                        340,
+                        373
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

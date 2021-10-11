@@ -1,0 +1,146 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 496
+    },
+    "objects": [
+        {
+            "id": 56636980,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958707,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2939,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        132,
+                        304
+                    ],
+                    [
+                        231,
+                        424
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636979,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958706,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5913,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        133,
+                        303
+                    ],
+                    [
+                        230,
+                        422
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636978,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958705,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.877,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        19,
+                        334
+                    ],
+                    [
+                        135,
+                        456
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636977,
+            "classId": 122197,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958704,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8862,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        386,
+                        275
+                    ],
+                    [
+                        446,
+                        427
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

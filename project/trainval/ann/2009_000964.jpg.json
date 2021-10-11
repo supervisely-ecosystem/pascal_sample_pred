@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 374,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635514,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957241,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3452,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        110,
+                        156
+                    ],
+                    [
+                        300,
+                        275
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635513,
+            "classId": 122197,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957240,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4927,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        154
+                    ],
+                    [
+                        302,
+                        278
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 302,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56637139,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958866,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5752,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        244,
+                        63
+                    ],
+                    [
+                        424,
+                        250
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

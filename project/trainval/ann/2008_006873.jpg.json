@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 281,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635908,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957635,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.27,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        220,
+                        0
+                    ],
+                    [
+                        245,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635907,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957634,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3474,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        114
+                    ],
+                    [
+                        139,
+                        123
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635906,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957633,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3909,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        297,
+                        228
+                    ],
+                    [
+                        499,
+                        280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635905,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957632,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4192,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        166
+                    ],
+                    [
+                        130,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635904,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957631,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4426,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        242,
+                        0
+                    ],
+                    [
+                        256,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635903,
+            "classId": 122183,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957630,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7549,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bird",
+            "points": {
+                "exterior": [
+                    [
+                        213,
+                        91
+                    ],
+                    [
+                        295,
+                        163
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

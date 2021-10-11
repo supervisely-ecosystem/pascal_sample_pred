@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 357,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635416,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957143,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7715,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        34,
+                        61
+                    ],
+                    [
+                        461,
+                        313
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

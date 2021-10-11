@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 319,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636450,
+            "classId": 122197,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958177,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8989,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        83
+                    ],
+                    [
+                        489,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636449,
+            "classId": 122192,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958176,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8989,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "dog",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        139
+                    ],
+                    [
+                        214,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636448,
+            "classId": 122197,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958175,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9175,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "sheep",
+            "points": {
+                "exterior": [
+                    [
+                        239,
+                        39
+                    ],
+                    [
+                        368,
+                        192
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

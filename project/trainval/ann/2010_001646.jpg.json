@@ -1,0 +1,214 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 297,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635760,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957487,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2991,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        284,
+                        172
+                    ],
+                    [
+                        294,
+                        193
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635759,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957486,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.395,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        254,
+                        173
+                    ],
+                    [
+                        262,
+                        201
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635758,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957485,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6011,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        174
+                    ],
+                    [
+                        8,
+                        197
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635757,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957484,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9189,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        10,
+                        78
+                    ],
+                    [
+                        144,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635756,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957483,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9263,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        140,
+                        109
+                    ],
+                    [
+                        256,
+                        226
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635755,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957482,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9316,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        46
+                    ],
+                    [
+                        496,
+                        264
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

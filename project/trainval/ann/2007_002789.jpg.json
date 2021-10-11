@@ -1,0 +1,248 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 314,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635203,
+            "classId": 122187,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956930,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3906,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        458,
+                        173
+                    ],
+                    [
+                        484,
+                        182
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635202,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956929,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4453,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        454,
+                        190
+                    ],
+                    [
+                        480,
+                        205
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635201,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956928,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4614,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        477,
+                        191
+                    ],
+                    [
+                        499,
+                        204
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635200,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956927,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7329,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        221,
+                        171
+                    ],
+                    [
+                        241,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635199,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956926,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8066,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        192,
+                        166
+                    ],
+                    [
+                        205,
+                        188
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635198,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956925,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8589,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        379,
+                        127
+                    ],
+                    [
+                        421,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635197,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956924,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9155,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        53,
+                        136
+                    ],
+                    [
+                        169,
+                        215
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

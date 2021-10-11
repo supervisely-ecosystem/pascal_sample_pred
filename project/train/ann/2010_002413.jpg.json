@@ -1,0 +1,248 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 357,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56637154,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958881,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3699,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        132
+                    ],
+                    [
+                        70,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637153,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958880,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3979,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        133
+                    ],
+                    [
+                        55,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637152,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958879,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.6089,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        318,
+                        141
+                    ],
+                    [
+                        340,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637151,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958878,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.75,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        137
+                    ],
+                    [
+                        107,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637150,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958877,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8652,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        377,
+                        128
+                    ],
+                    [
+                        499,
+                        223
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637149,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958876,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8662,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        120
+                    ],
+                    [
+                        42,
+                        175
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56637148,
+            "classId": 122186,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958875,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.937,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        96
+                    ],
+                    [
+                        325,
+                        253
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

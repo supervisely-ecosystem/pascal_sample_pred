@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 336,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635648,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957375,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2949,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        198
+                    ],
+                    [
+                        437,
+                        261
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635647,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957374,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4185,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        150,
+                        168
+                    ],
+                    [
+                        184,
+                        184
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

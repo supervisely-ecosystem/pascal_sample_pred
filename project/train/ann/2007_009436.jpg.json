@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 347,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636741,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958468,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5088,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        181
+                    ],
+                    [
+                        156,
+                        203
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636740,
+            "classId": 122198,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958467,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8447,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "train",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        28
+                    ],
+                    [
+                        325,
+                        263
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636739,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958466,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.9199,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        148
+                    ],
+                    [
+                        445,
+                        285
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

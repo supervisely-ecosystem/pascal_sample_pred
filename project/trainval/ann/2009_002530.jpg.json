@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 334,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56635584,
+            "classId": 122184,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957311,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.4812,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "boat",
+            "points": {
+                "exterior": [
+                    [
+                        55,
+                        112
+                    ],
+                    [
+                        442,
+                        198
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

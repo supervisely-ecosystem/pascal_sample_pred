@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 324,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 56636757,
+            "classId": 122190,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958484,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.3223,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "cow",
+            "points": {
+                "exterior": [
+                    [
+                        226,
+                        70
+                    ],
+                    [
+                        499,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56636756,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 958483,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.8677,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        9,
+                        28
+                    ],
+                    [
+                        261,
+                        318
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

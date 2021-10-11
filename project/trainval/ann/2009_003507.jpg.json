@@ -1,0 +1,112 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 334
+    },
+    "objects": [
+        {
+            "id": 56635990,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957717,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2656,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        136,
+                        309
+                    ],
+                    [
+                        196,
+                        352
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635989,
+            "classId": 122185,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957716,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.5176,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "bottle",
+            "points": {
+                "exterior": [
+                    [
+                        258,
+                        306
+                    ],
+                    [
+                        280,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56635988,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 957715,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.7485,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        317
+                    ],
+                    [
+                        278,
+                        499
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

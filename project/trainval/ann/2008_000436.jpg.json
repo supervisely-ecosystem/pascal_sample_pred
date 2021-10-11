@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 335,
+        "width": 447
+    },
+    "objects": [
+        {
+            "id": 56634930,
+            "classId": 122195,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956657,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2781,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        81,
+                        60
+                    ],
+                    [
+                        306,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 56634929,
+            "classId": 122189,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "cxnt",
+            "createdAt": "2021-10-11T14:03:05.521Z",
+            "updatedAt": "2021-10-11T14:03:05.521Z",
+            "tags": [
+                {
+                    "id": 956656,
+                    "tagId": 236195,
+                    "name": "confidence",
+                    "value": 0.2922,
+                    "labelerLogin": "cxnt",
+                    "createdAt": "2021-10-11T14:03:05.521Z",
+                    "updatedAt": "2021-10-11T14:03:05.521Z"
+                }
+            ],
+            "classTitle": "chair",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        59
+                    ],
+                    [
+                        377,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
