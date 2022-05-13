@@ -3,9 +3,9 @@
   "description": "1171 sample prediction images from PascalVOC dataset",
   "type": "project",
   "categories": [
-    "labeled data",
-    "semantic segmentation",
-    "images"
+    "import",
+    "images",
+    "project"
   ],
   "icon": "https://i.imgur.com/F6Yfux6.png",
   "icon_cover": true
