@@ -1,5 +1,5 @@
 {
-  "name": "PascalVOC Predictions (Sample)",
+  "name": "PascalVOC Predictions BBoxes (Sample)",
   "description": "1171 sample prediction images from PascalVOC dataset",
   "type": "project",
   "categories": [
