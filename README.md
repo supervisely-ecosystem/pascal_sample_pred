@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/PmTYwcX.png" width="100"/> 
+<img src="https://i.imgur.com/rruqiJj.png" width="100"/> 
 
 # PascalVOC Predictions BBoxes (Sample)
 
