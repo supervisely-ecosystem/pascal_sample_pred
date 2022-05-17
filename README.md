@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/PmTYwcX.png" width="100"/> 
 
-# PascalVOC Predictions Sample  
+# PascalVOC Predictions BBoxes Sample  
 
 <p align="center">
 
