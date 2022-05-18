@@ -1,6 +1,6 @@
 {
   "name": "PascalVOC PRED BBoxes (Sample)",
-  "description": "1171 sample prediction images from PascalVOC dataset",
+  "description": "1171 sample prediction-labeled images",
   "type": "project",
   "categories": [
     "import",
