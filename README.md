@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
+<img src="media/eco.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/rruqiJj.png" width="100"/> 
+<img src="media/icon.png" width="100"/> 
 
 # PascalVOC Predictions BBoxes (Sample)
 
@@ -27,11 +27,11 @@
 
  `pascal_sample_pred` is a sample project with the total of 1171 images from PascalVOC `train`, `val` (and mixed `trainval`) subsets. All predictions were produced by pretrained YOLOv5 model from original repository. This project is used as an example for `Object Detection Metrics` app.
 
-![](https://i.imgur.com/wYzYJ2V.png)
+![](media/ov1.png)
 
 Every object has `confidence` tag that will be used for metrics calculation:
 
-![](https://i.imgur.com/3CWLam5.png)
+![](media/ov2.png)
 
 
 ## Download
@@ -42,8 +42,8 @@ Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/geOhYVf
 
 Project contains 3 datasets with 1171 images in it, with a total of 2271 annotated objects. 
 
-![](https://i.imgur.com/iGOycU9.png)
+![](media/stats.png)
 
 ## Examples
 
-![](https://i.imgur.com/Tl4Hu0c.png) ![](https://i.imgur.com/ovwTB0u.png) 
+![](media/ex1.png) ![](media/ex2.png) 
