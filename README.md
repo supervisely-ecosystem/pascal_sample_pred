@@ -36,7 +36,7 @@ Every object has `confidence` tag that will be used for metrics calculation:
 
 ## Download
 
-Direct download: [tar archive](https://cloud.enterprise.deepsystems.io/s/geOhYVf3Tfty8Hq/download) (131,1 MB).
+Direct download: [tar archive](https://github.com/supervisely-ecosystem/pascal_sample_pred/releases/download/v1.0.0/project.zip) (131,1 MB).
 
 ## Statistics
 
